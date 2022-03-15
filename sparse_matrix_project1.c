@@ -1,3 +1,5 @@
+// by Eunju Jeong, eunju0316@sookmyung.ac.kr
+
 #include <stdio.h>
 #define ROW 10  // 2차원 배열(arr2d[][])의 행을 10으로 정함
 #define COL 10  // 2차원 배열(arr2d[][])의 열을 10으로 정함
